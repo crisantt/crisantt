@@ -1,4 +1,4 @@
-# 🖥️ Computer Science Student?
+# 🖥️ Computer Science/Engineer Student?
 ## 🎮 A Journey to Create My Own Career
 - 👋 Hi, I’m @crscrused on github but you can call me cris
 - 👀 I’m interested in learning how to code like a pro
