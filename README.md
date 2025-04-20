@@ -1,8 +1,8 @@
 # 🖥️ A Student
-## 🎮 A Journey to Create My Own Career
+## 🎮 A Journey to Build My Own Career
 - 👋 Hi, I’m @crisantt on github but you can call me cris
 - 👀 I'm a linux enjoyer
-- 🌱 I’m currently learning the basics of C++
+- 🌱 I’m currently learning the basics of C
 - 🏫 Studies at Ateneo De Naga University
 
 <!---
